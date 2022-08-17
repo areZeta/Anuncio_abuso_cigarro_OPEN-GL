@@ -1,0 +1,13 @@
+[Setup]
+AppName=glut
+AppVersion=3.7.6+
+Description=A window system independent toolkit for writing OpenGL programs
+Url=http://www.xmission.com/~nate/glut.html
+
+[Files]
+include\GL\glut.h
+lib\libglut32.a
+Templates\glut.template
+Templates\glut.txt
+C:\Users\brenda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Bloodshed Dev-C++\glut\GLUT.url
+C:\Users\brenda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Bloodshed Dev-C++\glut\API Specifications.url
